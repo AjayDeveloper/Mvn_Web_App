@@ -5,7 +5,7 @@
   <groupId>com.mvn.webapp</groupId>
   <artifactId>Mvn_Web_App</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>Mvn_Web_App</name>
   <url>http://maven.apache.org</url>
